@@ -1,0 +1,20 @@
+{
+  "name": "psp404tc-experiment",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader native --host 127.0.0.1",
+    "build": "node scripts/validate.mjs && vite build --configLoader native && node scripts/check-dist.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.js",
+    "check:live": "node scripts/validate.mjs --live"
+  },
+  "dependencies": {
+    "jspsych": "8.3.0",
+    "pdfjs-dist": "5.4.394"
+  },
+  "devDependencies": {
+    "vite": "6.4.1"
+  }
+}

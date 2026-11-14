@@ -1,0 +1,14 @@
+{
+  "confirmed": true,
+  "endpoint": "https://formsubmit.app/f/rrr95n9ge3",
+  "provider": "formsubmit-app",
+  "tested_at": "2026-11-14T11:11:22.093Z",
+  "receipt_reference": "okbUQGVUFzA5neBE; user confirmed email delivery with all eight trial records",
+  "api_acknowledged": true,
+  "api_receipt": "okbUQGVUFzA5neBE",
+  "synthetic_session_id": "SYNTHETIC-TEST-51ccc071-95c9-496c-ade8-33531fdf3a58",
+  "dashboard_email_confirmed": false,
+  "email_delivery_confirmed": true,
+  "dashboard_confirmed": false,
+  "confirmation_basis": "User confirmed complete email delivery; dashboard not separately confirmed"
+}

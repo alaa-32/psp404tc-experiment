@@ -1,0 +1,36 @@
+name: Publish approved experiment
+on:
+  workflow_dispatch:
+    inputs:
+      approval:
+        description: Type APPROVED after owner authorization and all readiness checks
+        required: true
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: inputs.approval == 'APPROVED'
+    runs-on: ubuntu-latest
+    environment: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: corepack enable && corepack prepare pnpm@11.25.0 --activate
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm test && pnpm check:live && pnpm build
+        env:
+          VITE_COLLECTION_MODE: live
+          VITE_SUBMISSION_ENDPOINT: ${{ vars.SUBMISSION_ENDPOINT }}
+          VITE_SUBMISSION_PROVIDER: formsubmit-app
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

@@ -1,0 +1,2 @@
+export function formPayload(session){return {submission_id:session.session_id||session.participant_id,session_id:session.session_id||session.participant_id,participant_id:session.participant_id,group:session.condition,language:session.language,session_json:JSON.stringify(session)};}
+export function checkFormAcknowledgment(body){if(body.ok!==true||typeof body.id!=='string'||!body.id)throw Error('Missing provider acknowledgment');return body;}

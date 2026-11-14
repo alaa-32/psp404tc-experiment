@@ -1,0 +1,66 @@
+[
+  {
+    "id": "CS1",
+    "paper_id": "CS",
+    "en": "In a survey about smartphone use in freezing weather, around 58% of participants used their phones to listen to music or podcasts, while around 28% used them to play games.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "CS2",
+    "paper_id": "CS",
+    "en": "In the same survey, more participants experienced apps crashing than problems with the phone\u2019s operating system crashing.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "RB1",
+    "paper_id": "RB",
+    "en": "In a robot delivery experiment, every participant tried both delivery methods: receiving the object directly and picking it up from a table.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "RB2",
+    "paper_id": "RB",
+    "en": "Participants gave the robot a higher average confidence score when it handed them an object directly than when it left the object on a table.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "EC1",
+    "paper_id": "EC",
+    "en": "In a restaurant donation experiment, researchers tested suggested donations of 50 cents, $1 and $3, along with a condition where no amount was suggested.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "EC2",
+    "paper_id": "EC",
+    "en": "In the same experiment, suggesting a donation of 50 cents produced a higher average daily donation total than suggesting $2.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "ED1",
+    "paper_id": "ED",
+    "en": "In an online learning experiment, students using the version with game features achieved an average performance score of 0.80, compared with 0.49 for students using the version without game features.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  },
+  {
+    "id": "ED2",
+    "paper_id": "ED",
+    "en": "In the same experiment, 38 students used the learning platform with game features, while 33 students used the version without them.",
+    "zh": null,
+    "review_required": true,
+    "translation_approved": false
+  }
+]

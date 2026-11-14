@@ -1,0 +1,154 @@
+{
+  "CS1": {
+    "paper_id": "CS",
+    "question_id": "CS1",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 2,
+    "target_scroll_anchor": 0.7744107744107744,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "CS1"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-CS1.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "CS2": {
+    "paper_id": "CS",
+    "question_id": "CS2",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 3,
+    "target_scroll_anchor": 0.5260942760942761,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "CS2"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-CS2.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "RB1": {
+    "paper_id": "RB",
+    "question_id": "RB1",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 1,
+    "target_scroll_anchor": 0.8653198653198653,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "RB1"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-RB1.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "RB2": {
+    "paper_id": "RB",
+    "question_id": "RB2",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 2,
+    "target_scroll_anchor": 0.5774410774410774,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "RB2"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-RB2.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "EC1": {
+    "paper_id": "EC",
+    "question_id": "EC1",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 2,
+    "target_page": 2,
+    "target_scroll_anchor": 0.6490344248530646,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "EC1"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-EC1.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "EC2": {
+    "paper_id": "EC",
+    "question_id": "EC2",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 2,
+    "target_page": 2,
+    "target_scroll_anchor": 0.109151973131822,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "EC2"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-EC2.pdf",
+    "local_review_verified": true,
+    "review_note": "Corrected transparent highlight visually verified; table headings and 3.568 / 1.581 readable; original text and two pages preserved."
+  },
+  "ED1": {
+    "paper_id": "ED",
+    "question_id": "ED1",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 2,
+    "target_scroll_anchor": 0.622895622895623,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "ED1"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-ED1.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  },
+  "ED2": {
+    "paper_id": "ED",
+    "question_id": "ED2",
+    "original_asset": null,
+    "guided_asset": null,
+    "page_count": 3,
+    "target_page": 3,
+    "target_scroll_anchor": 0.11195286195286196,
+    "highlight_passage_count": 1,
+    "highlight_claim_ids": [
+      "ED2"
+    ],
+    "researcher_approval": false,
+    "rights_clearance": false,
+    "content_equivalence_verified": true,
+    "local_guided_asset": "guided-ED2.pdf",
+    "local_review_verified": true,
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+  }
+}

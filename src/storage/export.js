@@ -1,0 +1,1 @@
+export function trialRows(session){return session.trials.map(t=>({...t,participant_id:session.participant_id,group:session.condition,language:session.language,experiment_version:session.experiment_version,source_variant:t.source_variant||(session.condition==='A'?'original':t.claim_id+'-guided')}));}
