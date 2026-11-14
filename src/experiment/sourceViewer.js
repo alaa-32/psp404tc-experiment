@@ -1,5 +1,5 @@
-import * as pdfjs from 'pdfjs-dist';
-import worker from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
+import * as pdfjs from 'pdfjs-dist/legacy/build/pdf.mjs';
+import worker from 'pdfjs-dist/legacy/build/pdf.worker.min.mjs?url';
 pdfjs.GlobalWorkerOptions.workerSrc=worker;
 import {sourceURL,practicePresentation} from './sourcePolicy.js';
 export async function prepareSource(claim,condition,mapping){
