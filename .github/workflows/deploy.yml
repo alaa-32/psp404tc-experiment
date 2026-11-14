@@ -22,10 +22,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: corepack enable && corepack prepare pnpm@11.25.0 --activate
+      - uses: pnpm/action-setup@v4
+        with:
+          version: '10.11.0'
       - run: pnpm install --frozen-lockfile
+      - run: node scripts/check-public-source.mjs
       - run: pnpm test && pnpm check:live && pnpm build
         env:
+          SKIP_LOCAL_PDFS: 'true'
+          VITE_PUBLIC_PREVIEW: 'false'
           VITE_COLLECTION_MODE: live
           VITE_SUBMISSION_ENDPOINT: ${{ vars.SUBMISSION_ENDPOINT }}
           VITE_SUBMISSION_PROVIDER: formsubmit-app

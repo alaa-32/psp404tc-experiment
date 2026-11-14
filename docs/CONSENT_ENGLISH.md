@@ -30,7 +30,7 @@ Once you complete the study, your responses will be transmitted through **FormSu
 
 Access to the research responses will be restricted to authorized research team members and relevant university staff where appropriate. Results may be presented in summary form in academic reports and presentations.
 
-Research data will be retained for **30 days** and then deleted according to the research team's data-management arrangements.
+Research data will be retained for **30 days from submission** and then deleted by the research team from its collection account, notification emails, exports and research backups. A copy is also saved in your browser. You can remove that copy using the study controls; expired local progress is removed the next time you open the study. Removing a browser copy does not delete a submitted response. Please keep your study ID if you may wish to request deletion.
 
 ### Voluntary Participation
 

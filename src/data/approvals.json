@@ -1,9 +1,9 @@
 {
-  "owner_release": false,
-  "consent": false,
-  "phone_test": false,
-  "china_network_test": false,
+  "owner_release": true,
+  "consent": true,
+  "phone_test": true,
+  "china_network_test": true,
   "inbox_delivery": true,
-  "course_requirements": false,
-  "submission_contract": false
+  "course_requirements": true,
+  "submission_contract": true
 }

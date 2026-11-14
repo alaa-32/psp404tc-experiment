@@ -2,8 +2,8 @@
   "CS1": {
     "paper_id": "CS",
     "question_id": "CS1",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/cs.pdf",
+    "guided_asset": "papers/guided-CS1.pdf",
     "page_count": 3,
     "target_page": 2,
     "target_scroll_anchor": 0.7744107744107744,
@@ -11,18 +11,24 @@
     "highlight_claim_ids": [
       "CS1"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-CS1.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/cs.pdf": "c98c76bee1f7e9df3293d97ca642b4a751e164448ec50ccfcfd4ad126918e650",
+      "papers/guided-CS1.pdf": "f75ec45bf45f648d7f236d453521d71d9cd5247987016f97fc412da87a002edf"
+    }
   },
   "CS2": {
     "paper_id": "CS",
     "question_id": "CS2",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/cs.pdf",
+    "guided_asset": "papers/guided-CS2.pdf",
     "page_count": 3,
     "target_page": 3,
     "target_scroll_anchor": 0.5260942760942761,
@@ -30,18 +36,24 @@
     "highlight_claim_ids": [
       "CS2"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-CS2.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/cs.pdf": "c98c76bee1f7e9df3293d97ca642b4a751e164448ec50ccfcfd4ad126918e650",
+      "papers/guided-CS2.pdf": "729bee76993caa6a848b104c5f69f0772e9dec72e77f683401422a880c12f58d"
+    }
   },
   "RB1": {
     "paper_id": "RB",
     "question_id": "RB1",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/robotic.pdf",
+    "guided_asset": "papers/guided-RB1.pdf",
     "page_count": 3,
     "target_page": 1,
     "target_scroll_anchor": 0.8653198653198653,
@@ -49,18 +61,24 @@
     "highlight_claim_ids": [
       "RB1"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-RB1.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/robotic.pdf": "ff92f5f32e514e301ca6f6f0679f9368968a9df85d5b7573e9afa2a602fad11b",
+      "papers/guided-RB1.pdf": "590eb4783ac67ec0c1787e711af78c6291b5bf70ba5c52ec79a9701b63678f4d"
+    }
   },
   "RB2": {
     "paper_id": "RB",
     "question_id": "RB2",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/robotic.pdf",
+    "guided_asset": "papers/guided-RB2.pdf",
     "page_count": 3,
     "target_page": 2,
     "target_scroll_anchor": 0.5774410774410774,
@@ -68,18 +86,24 @@
     "highlight_claim_ids": [
       "RB2"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-RB2.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/robotic.pdf": "ff92f5f32e514e301ca6f6f0679f9368968a9df85d5b7573e9afa2a602fad11b",
+      "papers/guided-RB2.pdf": "78e0495e0965775cd6c525cf4aa95a0cee20d770b2492549763f2e00ed6edc7b"
+    }
   },
   "EC1": {
     "paper_id": "EC",
     "question_id": "EC1",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/economic.pdf",
+    "guided_asset": "papers/guided-EC1.pdf",
     "page_count": 2,
     "target_page": 2,
     "target_scroll_anchor": 0.6490344248530646,
@@ -87,37 +111,49 @@
     "highlight_claim_ids": [
       "EC1"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-EC1.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/economic.pdf": "75dd428ae8d5e1780a78ee503e7e2bb73067a2d247922a63d6e07ff881845206",
+      "papers/guided-EC1.pdf": "5fac4b18ff857686820c11a6ce01b014de9f557e14c63dcfc07881a74603d4a0"
+    }
   },
   "EC2": {
     "paper_id": "EC",
     "question_id": "EC2",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/economic.pdf",
+    "guided_asset": "papers/guided-EC2.pdf",
     "page_count": 2,
     "target_page": 2,
-    "target_scroll_anchor": 0.109151973131822,
+    "target_scroll_anchor": 0.45231138678167215,
     "highlight_passage_count": 1,
     "highlight_claim_ids": [
       "EC2"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-EC2.pdf",
     "local_review_verified": true,
-    "review_note": "Corrected transparent highlight visually verified; table headings and 3.568 / 1.581 readable; original text and two pages preserved."
+    "review_note": "Corrected from original: page 2 results passage explicitly compares requested amounts; ambiguous treatment-column highlight removed. Text/page equivalence and rendered readability verified. Final reviewer approval pending.",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/economic.pdf": "75dd428ae8d5e1780a78ee503e7e2bb73067a2d247922a63d6e07ff881845206",
+      "papers/guided-EC2.pdf": "dc019d8e75edc9921f33b6e7fcd96bff95854f3dd4cb65bebad4c62843ecb6a7"
+    }
   },
   "ED1": {
     "paper_id": "ED",
     "question_id": "ED1",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/edu.pdf",
+    "guided_asset": "papers/guided-ED1.pdf",
     "page_count": 3,
     "target_page": 2,
     "target_scroll_anchor": 0.622895622895623,
@@ -125,18 +161,24 @@
     "highlight_claim_ids": [
       "ED1"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-ED1.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/edu.pdf": "6243b824006c75de79bbaabf8ae2784ff0144a73e1aad1b5c2bbba169d8461a7",
+      "papers/guided-ED1.pdf": "23b061fa1b5b29c1b9eec24d977d9d960ffcd36ca8b31990b61013caf927e367"
+    }
   },
   "ED2": {
     "paper_id": "ED",
     "question_id": "ED2",
-    "original_asset": null,
-    "guided_asset": null,
+    "original_asset": "papers/edu.pdf",
+    "guided_asset": "papers/guided-ED2.pdf",
     "page_count": 3,
     "target_page": 3,
     "target_scroll_anchor": 0.11195286195286196,
@@ -144,11 +186,17 @@
     "highlight_claim_ids": [
       "ED2"
     ],
-    "researcher_approval": false,
-    "rights_clearance": false,
+    "researcher_approval": true,
+    "rights_clearance": true,
     "content_equivalence_verified": true,
     "local_guided_asset": "guided-ED2.pdf",
     "local_review_verified": true,
-    "review_note": "Local visual review: question-specific passage/table; text and page count match original"
+    "review_note": "Local visual review: question-specific passage/table; text and page count match original",
+    "coursework_use_approved": true,
+    "publication_permission_reference": "Owner explicitly confirmed public GitHub Pages hosting permission for all four originals and highlighted copies in this chat, 2026-11-14. Recorded as owner attestation; no independent rights document supplied.",
+    "asset_sha256": {
+      "papers/edu.pdf": "6243b824006c75de79bbaabf8ae2784ff0144a73e1aad1b5c2bbba169d8461a7",
+      "papers/guided-ED2.pdf": "ac167339d39b9bfd076d1473b47031d38c5a227c01a020a940854febfea8d180"
+    }
   }
 }
